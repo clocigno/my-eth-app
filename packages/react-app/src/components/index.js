@@ -1,4 +1,7 @@
 import styled from "styled-components";
+import { WalletButton } from "./WalletButton";
+
+export { WalletButton };
 
 export const Body = styled.div`
   align-items: center;
